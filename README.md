@@ -1,8 +1,4 @@
 # devops101
 
 
-## Start jupyter
-```bash
-$ source venv/bin/activate
-$ jupyter notebook
-```
+### I can change README from terminal.
